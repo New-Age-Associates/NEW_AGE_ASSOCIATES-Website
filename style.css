@@ -184,7 +184,7 @@ body {
 .burger {
     display: none;
     cursor: pointer;
-    margin-left: 95%;
+    margin-left: 85%;
 }
 .burger div{
     width: 25px;
