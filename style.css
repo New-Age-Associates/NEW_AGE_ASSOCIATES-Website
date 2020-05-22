@@ -168,6 +168,11 @@ body {
     background-color: red;
     overflow-x: hidden;
 }
+@media screen and (max-width: 780px){
+    body{
+        overflow-x: hidden;
+    }
+}
 /*Animation Links started*/
 .nav_scroll {
     width:100%; 
