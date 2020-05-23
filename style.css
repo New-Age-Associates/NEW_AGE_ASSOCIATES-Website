@@ -190,7 +190,7 @@ body {
 .burger {
     display: none;
     cursor: pointer;
-    margin-left: 85%;
+    margin-left: 90%;
 }
 .burger div{
     width: 25px;
@@ -214,7 +214,7 @@ body {
         position: absolute;
         right: 0px;
         height: 1000px;
-        top:11vh;
+        top:10vh;
         background-color: #602d4f;
         color: #ead9ec;
         display: flex;
