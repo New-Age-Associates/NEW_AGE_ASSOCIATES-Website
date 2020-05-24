@@ -201,7 +201,7 @@ body {
     }
     
 }
-@media screen and (max-width: 780px){
+@media screen and (max-width: 1200px){
     body{
         overflow-x: hidden;
     }
@@ -209,7 +209,7 @@ body {
         position: absolute;
         right: 0px;
         height: 1000px;
-        top:10vh;
+        top:15vh;
         background-color: #602d4f;
         color: #ead9ec;
         display: flex;
@@ -225,6 +225,9 @@ body {
     }
     .burger{
         display: block;
+    }
+    .brokerage{
+        margin-top: -9%;
     }
     
 }
